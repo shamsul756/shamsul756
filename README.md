@@ -2,48 +2,52 @@ click this link and explore portfolio thank you
 https://myself-gilt-five.vercel.app
 
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Samsul+Islam+Sujon;Full-Stack+Web+Developer+(MERN+%2F+Next.js)" alt="Typing SVG" />
+  </a>
+<div align="center">
 
-<a href="https://myself-gilt-five.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Hi+%F0%9F%91%8B+I'm+Samsul+Islam+Sujon;Frontend-Leaning+Full-Stack+Developer;MERN+%C2%B7+Next.js+%C2%B7+Agentic+AI;Building+modern%2C+scalable+web+apps" alt="Typing SVG" />
-</a>
+  <p align="center">
+    📍 Sylhet, Bangladesh &nbsp;•&nbsp; 
+    📧 <a href="mailto:webdevlopershamsul@gmail.com">webdevlopershamsul@gmail.com</a> &nbsp;•&nbsp; 
+    📱 +880 1307-510449
+  </p>
 
-<p>
-  📍 Sylhet, Bangladesh &nbsp;·&nbsp; 📧 webdevlopershamsul@gmail.com &nbsp;·&nbsp; 📱 +880 1307-510449
-</p>
-
-<p>
-  <a href="https://github.com/shamsul756"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shamsul-islam-6608813a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://myself-gilt-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:webdevlopershamsul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/shamsul756/shamsul756/main/image-1.png" alt="hero" width="100%"/>
+  <p align="center">
+    <a href="https://github.com/shamsul756"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/shamsul-islam-6608813a2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://myself-gilt-five.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  </p>
 
 </div>
 
----
 
-### 👋 About Me
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" />
 
-I'm a Management Information Systems undergraduate and self-taught full-stack web developer focused on building clean, responsive, and practical web applications.
 
-- 🎓 B.Sc. in Management Information Systems, Noakhali Science and Technology University
-- 💻 Specialized in **MERN Stack** & **Next.js**
-- 🚀 Built and shipped **10+** frontend, backend, and full-stack projects
-- 🧠 Completed a 6-month intensive frontend development program
-- 🤖 Exploring AI-powered applications and Agentic AI
-- 🧩 Practicing Data Structures & Algorithms on LeetCode
-- 📸 Member of a Photography Club &nbsp;·&nbsp; 🏆 Member of a Problem-Solving Team
-- 🌱 Constantly learning and improving my development skills
+<img src="https://raw.githubusercontent.com/shamsul756/shamsul756/main/image-1.png" alt="hero" width="100%"/>
 
-> My goal: turn real-world problems into simple, reliable, and user-friendly digital solutions.
 
-<br clear="right"/>
+### 📊 GitHub Stats
 
----
+<div align="center">
+  <img src="https://
+https://github.com/shamsul756?username=shamsul756&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&border_radius=12" height="180" />
+
+  <img src="
+https://github.com/shamsul756/api/top-langs/?username=shamsul756&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&border_radius=12" height="180" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsul756&theme=tokyonight&hide_border=true&border_radius=12" height="180" />
+
+</div>
+
 
 ### 🛠️ Tech Stack
 
@@ -99,16 +103,17 @@ I'm a Management Information Systems undergraduate and self-taught full-stack we
 
 ### 🎯 Current Focus — Animated Skill Progress
 
-<p>
-  <img src="./assets/skill-bars/frontend.svg" alt="Frontend Development 95%" /><br/>
-  <img src="./assets/skill-bars/nextjs.svg" alt="Next.js 90%" /><br/>
-  <img src="./assets/skill-bars/react.svg" alt="React 95%" /><br/>
-  <img src="./assets/skill-bars/node.svg" alt="Node.js & Express 80%" /><br/>
-  <img src="./assets/skill-bars/mongodb.svg" alt="MongoDB 80%" /><br/>
-  <img src="./assets/skill-bars/problem_solving.svg" alt="Problem Solving 70%" /><br/>
-  <img src="./assets/skill-bars/ai.svg" alt="AI / Agentic AI 60%" />
-</p>
+## Skills Overview
 
+| Skill | Proficiency |
+|---|---|
+| Frontend Development | `███████████████████░` 95% |
+| React | `███████████████████░` 95% |
+| Next.js | `██████████████████░░` 90% |
+| Node.js and Express | `████████████████░░░░` 80% |
+| MongoDB | `████████████████░░░░` 80% |
+| Problem Solving | `██████████████░░░░░░` 70% |
+| AI and Agentic AI | `████████████░░░░░░░░` 60% |
 <sub>Bars animate from 0 → target % when the README loads (each SVG fills on a slight stagger, like the contribution snake below).</sub>
 
 ---
@@ -127,20 +132,7 @@ I'm a Management Information Systems undergraduate and self-taught full-stack we
 
 ---
 
-### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsul756&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=shamsul756&theme=transparent&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsul756&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shamsul756&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
----
 
 ### 🎓 Education
 
